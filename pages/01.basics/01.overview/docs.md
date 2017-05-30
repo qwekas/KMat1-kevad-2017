@@ -5,8 +5,8 @@ taxonomy:
         - docs
 ---
 
-## Kompleksarvu algebraline ja trigonomeetriline kuju.
-
+## Kompleksarvu algebraline kuju.
+<code>z = a + bi</code>
 
 ## Teisendamine ühelt kujult teisele.
 
