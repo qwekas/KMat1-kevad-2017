@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 ## Kompleksarvu algebraline kuju.
-<code>\sqrt[3]{4+\frac{3}{2}}</code>
+\sqrt[3]{4+\frac{3}{2}}
 
 ## Teisendamine ühelt kujult teisele.
 
