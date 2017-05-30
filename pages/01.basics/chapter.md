@@ -1,12 +1,11 @@
 ---
-title: Basics
+title: 'P1. Kompleksarvud'
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
-### Chapter 1
+### Praktikumid 30, 31 ja 31
 
-# Basics
-
-Discover the **basic** principles
+# Kompleksarvud
