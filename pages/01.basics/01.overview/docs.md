@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 ## Kompleksarvu algebraline kuju.
-<code>z = a + bi</code>
+<code>z = a + b i</code>
 
 ## Teisendamine ühelt kujult teisele.
 
