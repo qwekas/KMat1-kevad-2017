@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 ## Kompleksarvu algebraline kuju.
-<code>z = a + b i</code>
+<code>\sqrt[3]{4+\frac{3}{2}}</code>
 
 ## Teisendamine ühelt kujult teisele.
 
