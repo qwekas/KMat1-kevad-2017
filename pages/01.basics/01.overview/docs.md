@@ -1,8 +1,14 @@
 ---
-title: Overview
+title: 'Kompleksarvu algebraline ja trigonomeetriline kuju'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
+
+## Kompleksarvu algebraline ja trigonomeetriline kuju.
+
+
+## Teisendamine ühelt kujult teisele.
 
 
 Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
