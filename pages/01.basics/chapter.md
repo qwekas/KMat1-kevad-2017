@@ -6,6 +6,6 @@ taxonomy:
 child_type: docs
 ---
 
-### Praktikumid 30, 31 ja 31
+### Praktikumid 30, 31 ja 32
 
 # Kompleksarvud
